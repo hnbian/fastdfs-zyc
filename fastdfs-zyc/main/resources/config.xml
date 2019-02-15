@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <server>
+        <ip>tracker</ip>
+        <username>root</username>
+        <port>22</port>
+        <password>xinyi2513</password>
+        <logpath>/usr/local/nginx/logs</logpath>
+    </server>
+    <server>
+        <ip>storage</ip>
+        <username>root</username>
+        <port>22</port>
+        <password>xinyi2513</password>
+        <logpath>/usr/local/nginx/logs</logpath>
+    </server>
+</root>
